@@ -3,12 +3,24 @@ body {
     text-align: center;
     font-family: verdana;
 }
+/*HEADINGS*/
 .header --main{
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
+/*LINKS*/
 .link--cta{
     font-size: 16px;
     color: aquamarine;
+}
+/*SUB HEADINGS*/
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+.header-sub-header{
+    font-size: 21px;
+    color: grey; 
 }
