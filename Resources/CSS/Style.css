@@ -15,12 +15,12 @@ body {
     color: aquamarine;
 }
 /*SUB HEADINGS*/
-.header--secondary {
+.header--secondary{
     font-weight: 300;
     font-size: 42px;
     color: #ffffff;
 }
-.header-sub-header{
+.header--sub-header{
     font-size: 21px;
     color: grey; 
 }
